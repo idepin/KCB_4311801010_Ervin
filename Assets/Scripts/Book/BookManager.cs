@@ -6,6 +6,4 @@ using UnityEngine.UI;
 public class BookManager : MonoBehaviour
 {
     public GameObject txtPencet, txtPesan;
-
-   
 }
